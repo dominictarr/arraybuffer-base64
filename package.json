@@ -1,7 +1,7 @@
 {
   "name": "arraybuffer-base64",
   "description": "",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/dominictarr/arraybuffer-base64",
   "repository": {
     "type": "git",
