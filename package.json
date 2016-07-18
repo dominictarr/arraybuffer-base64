@@ -1,0 +1,19 @@
+{
+  "name": "arraybuffer-base64",
+  "description": "",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dominictarr/arraybuffer-base64",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/arraybuffer-base64.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electro": "^2.0.0"
+  },
+  "scripts": {
+    "test": "set -e; for t in test/*.js; do node $t; done"
+  },
+  "author": "'Dominic Tarr' <dominic.tarr@gmail.com> (dominictarr.com)",
+  "license": "MIT"
+}
